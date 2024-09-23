@@ -1,8 +1,7 @@
 
-A static blog template built by [saica.go](https://github.com/saicaca/fuwari)).
+A static blog template built by [saica.go](https://github.com/saicaca/fuwari).
 
 
-```
 
 ## 🧞 Commands
 
